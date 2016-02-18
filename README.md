@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Dillinger
-=======
 # DesignBuddy
 >>>>>>> origin/master
 
