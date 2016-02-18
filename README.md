@@ -1,6 +1,4 @@
 # DesignBuddy
->>>>>>> origin/master
-
 DesignBuddy is a new social media site, we an aim to connect indivdual web creatives who might not have access to the communication avalible within an agency. 
 
 
